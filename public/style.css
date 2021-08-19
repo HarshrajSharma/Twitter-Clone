@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+#twitter {
+  position: relative;
+  width: 1366px;
+  height: 2086px;
+  background: #ffffff;
+}

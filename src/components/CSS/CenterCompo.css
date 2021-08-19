@@ -1,0 +1,13 @@
+#centerCompo {
+  position: absolute;
+  height: 2032px;
+  left: 286px;
+  right: 388px;
+}
+#centerCompo .centerHeading {
+  border: 2px solid #eff3f4;
+  border-top: 0;
+  font-size: 29px;
+  font-weight: bold;
+  padding: 10px;
+}

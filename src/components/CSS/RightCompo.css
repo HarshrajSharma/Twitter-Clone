@@ -1,0 +1,37 @@
+#rightCompo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  position: absolute;
+  width: 400px;
+  height: 648px;
+  left: 980px;
+  
+}
+#rightCompo .main{
+  width: 80%;
+  /* background-color: aquamarine; */
+}
+.searchBar{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.searchBar input{
+  margin: 10px;
+  width: 100%;  
+  padding: 10px;
+  font-size: 20px;
+  background-color: #EFF3F4;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+
+}
+
+.global{
+  background-color: #EFF3F4;
+  border-radius: 20px;
+  padding: 5px;
+}

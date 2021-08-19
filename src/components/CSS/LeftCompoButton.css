@@ -1,0 +1,14 @@
+.sideButton {
+  /* border: 1px solid black; */
+  font-size: 28px;
+  width: fit-content;
+  border-radius: 20px;
+  padding: 5px;
+  margin: 10px 0 0 0;
+}
+.sideButton i {
+  width: max-content;
+}
+.sideButton:hover {
+  background-color: #e7ecf0;
+}

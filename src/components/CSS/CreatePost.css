@@ -1,0 +1,37 @@
+#createPost {
+  border: 2px solid #eff3f4;
+}
+.top {
+  display: flex;
+
+  align-items: center;
+  font-size: 35px;
+  padding: 5px;
+}
+.top input {
+  margin-left: 60px;
+
+  width: 100%;
+  height: 5em;
+  border: none;
+
+  font-size: 24px;
+  outline: none
+  
+}
+.top input::placeholder{
+    color: #536471;
+    font-size: 24px;
+}
+.bottom {
+  text-align: right;
+}
+.bottom button {
+  font-size: 20px;
+  background-color: #1a91da;
+  color: white;
+  padding: 10px 24px 10px 24px;
+  border: none;
+  border-radius: 20px;
+  margin: 5px;
+}
