@@ -2,8 +2,8 @@ import React from "react"
 import "./CSS/RightCompo.css"
 
 
-function RightCompo(){
-    return(
+function RightCompo() {
+    return (
         <div id="rightCompo" >
             <div className="main" >
                 <div className="searchBar" ><input placeholder="Search Twitter" /></div>
